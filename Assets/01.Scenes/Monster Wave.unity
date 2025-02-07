@@ -371,8 +371,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1250736290}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalRotation: {x: -0.010382746, y: 0.7348675, z: -0.011250532, w: -0.6780379}
+  m_LocalPosition: {x: 12.603997, y: 1.67911, z: -0.18978119}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -422,177 +422,6 @@ MonoBehaviour:
     m_MipBias: 0
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
---- !u!1001 &1429994280
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 143816, guid: 2e6391b851bd6104aa35c25d824e40b1, type: 3}
-      propertyPath: m_Name
-      value: troll_02_01_Mecanim
-      objectReference: {fileID: 0}
-    - target: {fileID: 443822, guid: 2e6391b851bd6104aa35c25d824e40b1, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 443822, guid: 2e6391b851bd6104aa35c25d824e40b1, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 443822, guid: 2e6391b851bd6104aa35c25d824e40b1, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 443822, guid: 2e6391b851bd6104aa35c25d824e40b1, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 443822, guid: 2e6391b851bd6104aa35c25d824e40b1, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 443822, guid: 2e6391b851bd6104aa35c25d824e40b1, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 443822, guid: 2e6391b851bd6104aa35c25d824e40b1, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 443822, guid: 2e6391b851bd6104aa35c25d824e40b1, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 443822, guid: 2e6391b851bd6104aa35c25d824e40b1, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 443822, guid: 2e6391b851bd6104aa35c25d824e40b1, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 2e6391b851bd6104aa35c25d824e40b1, type: 3}
---- !u!1001 &1757158210
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 165622, guid: b7f1dfc4e01f4a645a02f3816571583e, type: 3}
-      propertyPath: m_Name
-      value: Hobgoblin_002_Mecanim
-      objectReference: {fileID: 0}
-    - target: {fileID: 465622, guid: b7f1dfc4e01f4a645a02f3816571583e, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 465622, guid: b7f1dfc4e01f4a645a02f3816571583e, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 465622, guid: b7f1dfc4e01f4a645a02f3816571583e, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 465622, guid: b7f1dfc4e01f4a645a02f3816571583e, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 465622, guid: b7f1dfc4e01f4a645a02f3816571583e, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 465622, guid: b7f1dfc4e01f4a645a02f3816571583e, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 465622, guid: b7f1dfc4e01f4a645a02f3816571583e, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 465622, guid: b7f1dfc4e01f4a645a02f3816571583e, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 465622, guid: b7f1dfc4e01f4a645a02f3816571583e, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 465622, guid: b7f1dfc4e01f4a645a02f3816571583e, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: b7f1dfc4e01f4a645a02f3816571583e, type: 3}
---- !u!1001 &1786903333
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 193048, guid: be3cbaf02f5437e4a8956b882b64ad92, type: 3}
-      propertyPath: m_Name
-      value: goblin_01_Mecanim
-      objectReference: {fileID: 0}
-    - target: {fileID: 493048, guid: be3cbaf02f5437e4a8956b882b64ad92, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 493048, guid: be3cbaf02f5437e4a8956b882b64ad92, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 493048, guid: be3cbaf02f5437e4a8956b882b64ad92, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 493048, guid: be3cbaf02f5437e4a8956b882b64ad92, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 493048, guid: be3cbaf02f5437e4a8956b882b64ad92, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 493048, guid: be3cbaf02f5437e4a8956b882b64ad92, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 493048, guid: be3cbaf02f5437e4a8956b882b64ad92, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 493048, guid: be3cbaf02f5437e4a8956b882b64ad92, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 493048, guid: be3cbaf02f5437e4a8956b882b64ad92, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 493048, guid: be3cbaf02f5437e4a8956b882b64ad92, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: be3cbaf02f5437e4a8956b882b64ad92, type: 3}
 --- !u!1 &1810895159
 GameObject:
   m_ObjectHideFlags: 0
@@ -623,9 +452,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spawnPrefabs:
-  - {fileID: 193048, guid: be3cbaf02f5437e4a8956b882b64ad92, type: 3}
-  - {fileID: 165622, guid: b7f1dfc4e01f4a645a02f3816571583e, type: 3}
-  - {fileID: 143816, guid: 2e6391b851bd6104aa35c25d824e40b1, type: 3}
+  - {fileID: 193048, guid: f3ece1bf1014ec3439428582bf9c880b, type: 3}
+  - {fileID: 165622, guid: 5669ba7904793844184aeff886c10fac, type: 3}
+  - {fileID: 143816, guid: 678781d5c66dd2b45b83670b4730451f, type: 3}
   maxTime: 3
 --- !u!4 &1810895161
 Transform:
@@ -636,7 +465,7 @@ Transform:
   m_GameObject: {fileID: 1810895159}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 8.36}
+  m_LocalPosition: {x: 0, y: 0, z: -20}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -767,8 +596,5 @@ SceneRoots:
   - {fileID: 1250736293}
   - {fileID: 2105501920}
   - {fileID: 137405002}
-  - {fileID: 1786903333}
-  - {fileID: 1757158210}
-  - {fileID: 1429994280}
   - {fileID: 870987556}
   - {fileID: 1810895161}

@@ -24,7 +24,8 @@ public class SpawnManager : MonoBehaviour
         {
             timer = 0f;
             // 몬스터 생성
-            Instantiate(spawnPrefabs[0], transform.position, Quaternion.identity);
+            int randomIndex = Random.Range(0, spawnPrefabs.Length);
+            GameObject monsterObj = Instantiate(spawnPrefabs[randomIndex], this.transform, false);
         }
     }
 }
