@@ -4,10 +4,12 @@ using UnityEngine;
 
 public class Goblin : Monster
 {
-    
     protected override void Init()
     {
-        hp = 10f;
+        base.Init();
+        
+        hp = 3f;
         speed = 5f;
+        isMove = true;
     }
 }

@@ -6,7 +6,10 @@ public class HobGoblin : Monster
 {
     protected override void Init()
     {
-        hp = 15f;
+        base.Init();
+        
+        hp = 5f;
         speed = 3f;
+        isMove = true;
     }
 }

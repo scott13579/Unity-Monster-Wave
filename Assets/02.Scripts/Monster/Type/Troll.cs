@@ -6,7 +6,10 @@ public class Troll : Monster
 {
     protected override void Init()
     {
-        hp = 40f;
+        base.Init();
+        
+        hp = 10f;
         speed = 1f;
+        isMove = true;
     }
 }
